@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Wilson Beima 👋
 
-<!--
-**wilbeimer/wilbeimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Shenandoah University.
 
-Here are some ideas to get you started:
+## Interests
+- AI Engineering
+- Agentic AI
+- Backend Development
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### AI Curriculum Generator
+Multi-step AI agent that generates curricula, assignments, and educational resources using Groq LLMs, YouTube, and web search.
+
+### Password Manager
+Full-stack password manager built with Python, SQLAlchemy, SQLite, and JavaScript.
+
+## Tech
+
+Python • React • SQLAlchemy • SQLite • Git • REST APIs • Java
